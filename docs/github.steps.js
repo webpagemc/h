@@ -28,6 +28,10 @@
 
 // ==== ADD, COMMIT Y PUSH ==== //
 
+// ==== STATUS ==== //
+
+
+
 //GIT ADD "urlDeLosCambios/cambios"
 
 //Agregar un cambio
@@ -69,7 +73,6 @@
 //mkdir --> Crear una carpeta
 
 //rmdir --> Eliminar una carpeta
-
 
 
 
