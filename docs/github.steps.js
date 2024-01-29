@@ -58,3 +58,18 @@
 //Sirve para cancelar los GIT ADD.
 
 
+//COMANDOS DE CARPETAS
+
+//cd "nombreDeCarpeta" --> Moverse entre carpetas
+
+//cd .. -> Volver una carpeta hacia atras
+
+//ls --> Ver los archivos que hay en una carpeta
+
+//mkdir --> Crear una carpeta
+
+//rmdir --> Eliminar una carpeta
+
+
+
+
