@@ -15,10 +15,22 @@
  * Recorda que dentro de cada condicion podes tener un return distinto (el return corta la ejecucion de la funcion y devuelve un dato)
  */
 
-const rateStudent = () => {
+const calificacionExamen = prompt("Ingrese la calificación"); 
+//tenes la variable calificacionExamen que toma el valor del prompt
 
-    //...//
+const rateStudent = (calificacion) => {
+
+    if (calificacion >= 60 && calificacion<=99) {
+        console.log("El estudiante aprobó la materia")
+    } else if (calificacion ==100) {
+        console.log("Felicitaciones!!! Usted obtuvo la calificación máxima.")
+    } else {
+        console.log("El estudiante reprobó la materia")
+    }
 
     return;
-
 }
+
+rateStudent(calificacionExamen); 
+//le pasas como parametro a la funcion
+
