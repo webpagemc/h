@@ -30,7 +30,9 @@
 
 // ==== STATUS ==== //
 
+// GIT STATUS 
 
+//Sirve para 
 
 //GIT ADD "urlDeLosCambios/cambios"
 
